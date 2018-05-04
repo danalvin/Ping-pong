@@ -1,6 +1,5 @@
 var answer = "";
 var theResult = [];
-
 var condition = function(number) {
   if (number % 15 === 0) {
     answer = "PingPong";

@@ -1,5 +1,4 @@
 $(document).ready(function() {
-
   $(".ping-pong").submit(function(event) {
     event.preventDefault();
     $("ul").empty();
