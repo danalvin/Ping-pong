@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background-color:#C0C0C0;
+	background-color:inherit;
 }
 body {
   text-align: center;
@@ -27,7 +27,7 @@ body {
   background-image: url("../images/1.jpg" );
 }
 h2{
-background-color: #cccccc;
+background-color: inherit;
 margin-bottom: 100px;
 font-size: 150px;
 }
