@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background-color: #cccccc;
+	background-color:#C0C0C0;
 }
 body {
   text-align: center;
@@ -24,7 +24,7 @@ body {
 }
 
 #result {
-  background-image: url("../images/2.jpg" );
+  background-image: url("../images/1.jpg" );
 }
 h2{
 background-color: #cccccc;
