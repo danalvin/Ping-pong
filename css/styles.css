@@ -15,6 +15,7 @@ body {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+	clip: rect(10px,100px,100px,10px)
 }
 
 .submitbbton {
@@ -22,5 +23,9 @@ body {
 }
 
 #result {
-  background-image: url("images/landing2.jpg");
+  background-image: url("images/background.jpg" );
   background-color: #cccccc;
+}
+h1{
+	font-size: 100px;
+}
