@@ -41,7 +41,7 @@ or Explorer
 
 ## Acknowledgments
 
-moringa school
+Moringa school
 
 ## License
 
