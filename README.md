@@ -14,7 +14,7 @@ Numbers divisible by 15 become pingpong
 
 ## Getting Started
 
-all you need is internet connection a browser and a web Url to access it which is;
+all you need is internet connection a browser and a web Url to access it which is; https://danalvin.github.io/Ping-pong/
 
 ### Prerequisites
 
