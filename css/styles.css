@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background: url("../images/2.jpg")
+	background-color: #cccccc;
 }
 body {
   text-align: center;
@@ -24,7 +24,10 @@ body {
 }
 
 #result {
-  background-image: url("../images/1.jpg" );
-h1{
-	font-size: 80px;
+  background-image: url("../images/2.jpg" );
+}
+h2{
+background-color: #cccccc;
+margin-bottom: 100px;
+font-size: 150px;
 }
